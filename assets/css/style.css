@@ -1,0 +1,131 @@
+html {
+  scroll-behavior: auto !important;
+}
+/* Navbar */
+body {
+  font-family: "Cabin", sans-serif;
+  font-size: 16pt;
+}
+.navbar {
+  background-color: #373a3c;
+  position: fixed;
+  width: 100vw;
+  z-index: 1;
+}
+
+.navbar-brand {
+  font-family: "Lobster", cursive;
+  font-size: 37pt;
+  font-weight: 400;
+}
+#primera {
+  padding-top: 100px;
+}
+#principal{
+  padding: 0;
+}
+
+
+
+/* contacto */
+#Contacto{
+  background-color: #DC3545;
+  color: white;
+}
+
+
+/* footer */
+Footer {
+  background-color: #373a3c;
+  font-family: "Lobster", cursive;
+  font-size: 37pt;
+  font-weight: 400;
+}
+
+
+/* sobre mi */
+#Sobre-Mi {
+  line-height: 3;
+}
+/* Mi experiencia */
+#Experiencia div h1 {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 52px;
+}
+
+#Experiencia i {
+  color: blueviolet;
+}
+
+#Experiencia div:last-child article h4:first-child {
+  font-family: "Oswald";
+}
+
+#Experiencia div:last-child article h4:last-child {
+  font-family: "Open Sans";
+  font-weight: 300;
+}
+
+/* mis trabajos */
+#Trabajos {
+  background-color: blueviolet;
+  font-family: "Oswald";
+}
+
+#Trabajos h1 {
+  font-size: 52px;
+}
+
+/* contacto */
+
+
+/* 
+
+.navbar, form{
+    background-color: #28a745;
+    padding: 0 20px;
+}
+
+
+.titulo-form {
+  padding: 20px;
+}
+.card-text {
+  margin: 0;
+}
+.descuento{
+  color: green;
+  padding: 10px.;
+}
+
+.precios{
+  display: flex;
+  display: row;
+  justify-content: flex-end;
+  padding: 10px;
+  align-items: baseline;
+}
+.descuento{
+  padding: 0 10px;
+  font-size: 21px;
+}
+.titulo-form {
+  display: flex;
+  justify-content:center;
+  color: #fff;
+}
+.boton {
+  display: flex;
+  justify-content:center;
+  color: #fff;
+  padding: 10px 10px 30px 10px;
+}
+
+.btn{
+  padding: 5px 30px;
+}
+.plom{
+  color: #707070;
+}
+
+ */
